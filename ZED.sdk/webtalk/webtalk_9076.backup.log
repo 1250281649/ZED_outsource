@@ -1,0 +1,67 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# 
+# Start of session at: Sat Mar 24 12:50:52 2018
+# Process ID: 9076
+# Current directory: F:/ZYNQ/ZED/ZED.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: F:/ZYNQ/ZED/ZED.sdk/webtalk/webtalk.log
+# Journal file: F:/ZYNQ/ZED/ZED.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
+# webtalk_init -webtalk_dir F:\\ZYNQ\\ZED\\ZED.sdk\\webtalk
+# webtalk_register_client -client project
+# webtalk_add_data -client project -key date_generated -value "2018-03-24 12:50:51" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key product_version -value "SDK v2017.4" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key build_version -value "2017.4" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key os_platform -value "amd64" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key registration_id -value "" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key tool_flow -value "SDK" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key beta -value "false" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key route_design -value "NA" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key target_family -value "NA" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key target_device -value "NA" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key target_package -value "NA" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key target_speed -value "NA" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key random_id -value "sltovrdb414lmeqcnrmbn9lfnv" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key project_id -value "2017.4_18" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key project_iteration -value "18" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key os_name -value "Microsoft Windows 8 or later , 64-bit" -context "user_environment"
+# webtalk_add_data -client project -key os_release -value "major release  (build 9200)" -context "user_environment"
+# webtalk_add_data -client project -key cpu_name -value "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz" -context "user_environment"
+# webtalk_add_data -client project -key cpu_speed -value "2808 MHz" -context "user_environment"
+# webtalk_add_data -client project -key total_processors -value "1" -context "user_environment"
+# webtalk_add_data -client project -key system_ram -value "17.097 GB" -context "user_environment"
+# webtalk_register_client -client sdk
+# webtalk_add_data -client sdk -key uid -value "1521862991646" -context "sdk\\\\bsp/1521862991646"
+# webtalk_add_data -client sdk -key hwid -value "1520411811055" -context "sdk\\\\bsp/1521862991646"
+# webtalk_add_data -client sdk -key os -value "device_tree" -context "sdk\\\\bsp/1521862991646"
+# webtalk_add_data -client sdk -key apptemplate -value "null" -context "sdk\\\\bsp/1521862991646"
+# webtalk_add_data -client sdk -key RecordType -value "BSPCreation" -context "sdk\\\\bsp/1521862991646"
+# webtalk_add_data -client sdk -key uid -value "1521863638600" -context "sdk\\\\bsp/1521863638600"
+# webtalk_add_data -client sdk -key hwid -value "1520411811055" -context "sdk\\\\bsp/1521863638600"
+# webtalk_add_data -client sdk -key os -value "standalone" -context "sdk\\\\bsp/1521863638600"
+# webtalk_add_data -client sdk -key apptemplate -value "zynq_fsbl" -context "sdk\\\\bsp/1521863638600"
+# webtalk_add_data -client sdk -key RecordType -value "BSPCreation" -context "sdk\\\\bsp/1521863638600"
+# webtalk_add_data -client sdk -key uid -value "1521863644536" -context "sdk\\\\application/1521863644536"
+# webtalk_add_data -client sdk -key hwid -value "1520411811055" -context "sdk\\\\application/1521863644536"
+# webtalk_add_data -client sdk -key bspid -value "1521863638600" -context "sdk\\\\application/1521863644536"
+# webtalk_add_data -client sdk -key newbsp -value "true" -context "sdk\\\\application/1521863644536"
+# webtalk_add_data -client sdk -key os -value "standalone" -context "sdk\\\\application/1521863644536"
+# webtalk_add_data -client sdk -key apptemplate -value "zynq_fsbl" -context "sdk\\\\application/1521863644536"
+# webtalk_add_data -client sdk -key RecordType -value "APPCreation" -context "sdk\\\\application/1521863644536"
+# webtalk_add_data -client sdk -key LangUsed -value "C" -context "sdk\\\\application/1521863644536"
+# webtalk_add_data -client sdk -key Procused -value "ps7_cortexa9" -context "sdk\\\\application/1521863644536"
+# webtalk_add_data -client sdk -key projSize -value "347.71484375" -context "sdk\\\\application/1521863644536"
+# webtalk_add_data -client sdk -key uid -value "NA" -context "sdk\\\\bsp/1521867051277"
+# webtalk_add_data -client sdk -key RecordType -value "ToolUsage" -context "sdk\\\\bsp/1521867051277"
+# webtalk_add_data -client sdk -key BootgenCount -value "3" -context "sdk\\\\bsp/1521867051277"
+# webtalk_add_data -client sdk -key DebugCount -value "7" -context "sdk\\\\bsp/1521867051277"
+# webtalk_add_data -client sdk -key PerfCount -value "1" -context "sdk\\\\bsp/1521867051277"
+# webtalk_add_data -client sdk -key FlashCount -value "0" -context "sdk\\\\bsp/1521867051277"
+# webtalk_add_data -client sdk -key CrossTriggCount -value "0" -context "sdk\\\\bsp/1521867051277"
+# webtalk_add_data -client sdk -key QemuDebugCount -value "0" -context "sdk\\\\bsp/1521867051277"
+# webtalk_transmit -clientid 337992555 -regid "" -xml F:\\ZYNQ\\ZED\\ZED.sdk\\webtalk\\usage_statistics_ext_sdk.xml -html F:\\ZYNQ\\ZED\\ZED.sdk\\webtalk\\usage_statistics_ext_sdk.html -wdm F:\\ZYNQ\\ZED\\ZED.sdk\\webtalk\\sdk_webtalk.wdm -intro "<H3>SDK Usage Report</H3><BR>"
+# webtalk_terminate
+INFO: [Common 17-206] Exiting Webtalk at Sat Mar 24 12:50:54 2018...

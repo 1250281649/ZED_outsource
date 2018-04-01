@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]F:\ZYNQ\ZED\ZED.sdk\FSBL\Debug\FSBL.elf
+	F:\ZYNQ\ZED\ZED.sdk\system_wrapper_hw_platform_0\system_wrapper.bit
+	C:\Users\Xiong.guo\Desktop\zturnlite\u-boot.elf
+}

@@ -1,0 +1,42 @@
+﻿上层为tx，下层为rx，从右(JA1)向左一次排列串口的引脚
+uart	sig		pin		IO
+uart0	tx		JA1		Y11
+	rx		JA7		AB11
+		
+uart1	tx		JA2		AA11
+		rx		JA8		AB10
+		
+uart2	tx		JA3		Y10
+		rx		JA9		AB9
+		
+uart3	tx		JA4		AA9
+		rx		JA10	AA8
+		
+uart4	tx		JB1		W12
+		rx		JB7		V12
+		
+uart5	tx		JB2		W11
+		rx		JB8		W10
+			
+uart6	tx		JB3		V10
+		rx		JB9		V9
+		
+uart7	tx		JB4		W8
+		rx		JB10	V8
+		
+uart8	tx		JC1_P	AB7
+		rx		JC3_P	R6
+		
+uart9	tx		JC1_N	AB6
+		rx		JC3_N	T6
+
+pwm引脚
+输出： JD1_P	V7
+输入： JD1_N	W7
+
+i2c0
+SCL	JD2_P	V5
+SDA	JD2_N	V4
+i2c1
+SCL	JD4_P	U6
+SDA	JD4_N	U5

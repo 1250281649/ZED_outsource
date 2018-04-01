@@ -1,0 +1,6 @@
+12:50:09 **** Clean-only build of project device_tree_zed ****
+make -k clean 
+make: *** 没有规则可以创建目标“clean”.
+
+12:50:10 Build Finished (took 187ms)
+

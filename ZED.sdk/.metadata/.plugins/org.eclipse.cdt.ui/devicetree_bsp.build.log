@@ -1,0 +1,6 @@
+16:54:47 **** Clean-only build of project devicetree_bsp ****
+make -k clean 
+make: *** 没有规则可以创建目标“clean”.
+
+16:54:47 Build Finished (took 141ms)
+

@@ -1,0 +1,14 @@
+vhdl xil_defaultlib  \
+"../../../bd/system/ip/system_rst_ps7_0_250M_0/sim/system_rst_ps7_0_250M_0.vhd" \
+"../../../bd/system/ip/system_axi_uart16550_0_1/sim/system_axi_uart16550_0_1.vhd" \
+"../../../bd/system/ip/system_axi_uart16550_0_0/sim/system_axi_uart16550_0_0.vhd" \
+"../../../bd/system/ip/system_axi_uart16550_1_0/sim/system_axi_uart16550_1_0.vhd" \
+"../../../bd/system/ip/system_axi_uart16550_2_0/sim/system_axi_uart16550_2_0.vhd" \
+"../../../bd/system/ip/system_axi_uart16550_3_0/sim/system_axi_uart16550_3_0.vhd" \
+"../../../bd/system/ip/system_axi_uart16550_0_2/sim/system_axi_uart16550_0_2.vhd" \
+"../../../bd/system/ip/system_axi_uart16550_1_1/sim/system_axi_uart16550_1_1.vhd" \
+"../../../bd/system/ip/system_axi_uart16550_2_1/sim/system_axi_uart16550_2_1.vhd" \
+"../../../bd/system/ip/system_axi_uart16550_3_1/sim/system_axi_uart16550_3_1.vhd" \
+"../../../bd/system/ip/system_axi_uart16550_4_0/sim/system_axi_uart16550_4_0.vhd" \
+
+nosort
