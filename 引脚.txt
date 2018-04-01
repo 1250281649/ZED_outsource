@@ -34,6 +34,7 @@ pwm引脚
 输出： JD1_P	V7
 输入： JD1_N	W7
 
+
 i2c0
 SCL	JD2_P	V5
 SDA	JD2_N	V4
